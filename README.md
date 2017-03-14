@@ -1,7 +1,6 @@
 
 
 # BarrageView- 
---------------------------------------------------------------------------------
 
 ![Image text](https://github.com/385841539/BarrageView/blob/master/app/src/main/res/mipmap-hdpi/xiahoushi.jpg)
 
