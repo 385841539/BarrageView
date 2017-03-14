@@ -2,7 +2,7 @@
 
 # BarrageView- 
 --------------------------------------------------------------------------------
-![image](http://github.com/3885841539/BarrageView/app/src/main/res/raw/xiahoushi.jpg)
+![image](http://github.com/385841539/BarrageView/app/src/main/res/raw/xiahoushi.jpg)
 
 
 自定义弹幕View，简单实现安卓弹幕，一个类搞定，用法简单
