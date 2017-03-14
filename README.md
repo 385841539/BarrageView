@@ -2,9 +2,9 @@
 
 # BarrageView- 
 --------------------------------------------------------------------------------
-![image](https://github.com/385841539@qq.com/BarrageView/app/src/main/res/raw/xiahoushi.jpg)
+![image](https://github.com/385841539/BarrageView/app/src/main/res/raw/xiahoushi.jpg)
 
-![Image text](https://github.com/385841539/BarrageView/app/src/main/res/raw/xiahoushi.jpg)
+![Image text](http://github.com/385841539/BarrageView/app/src/main/res/raw/xiahoushi.jpg)
 
 
 ![Aaron Swartz](https://github.com/385841539/BarrageView/app/src/main/res/raw/xiahoushi.jpg)
