@@ -2,12 +2,12 @@
 
 # BarrageView- 
 --------------------------------------------------------------------------------
-![image](http://github.com/385841539@qq.com/BarrageView/app/src/main/res/raw/xiahoushi.jpg)
+![image](https://github.com/385841539@qq.com/BarrageView/app/src/main/res/raw/xiahoushi.jpg)
 
 ![Image text](https://github.com/385841539/BarrageView/app/src/main/res/raw/xiahoushi.jpg)
 
 
-![Aaron Swartz](https://github.com/younghz/Markdown/raw/master/Res/Aaron_Swartz.jpg)
+![Aaron Swartz](https://github.com/385841539/BarrageView/app/src/main/res/raw/xiahoushi.jpg)
 
 
 自定义弹幕View，简单实现安卓弹幕，一个类搞定，用法简单
