@@ -19,8 +19,10 @@
 			maven { url 'https://jitpack.io' }
 		}
 	}
-	```
- >> 2.然后在 build.gradle(Module:app) 的 dependencies 添加:
+```
+
+>> 2.然后在 build.gradle(Module:app) 的 dependencies 添加:
+ 
  ```
  dependencies {
 	        compile 'com.github.385841539:BarrageView:-SNAPSHOT'
@@ -28,6 +30,8 @@
 ```
 
 ### 2:布局文件
+
+
 ```
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
