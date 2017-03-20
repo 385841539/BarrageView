@@ -7,10 +7,10 @@
  效果图  ：
  
 ![Image text](https://github.com/385841539/BarrageView/blob/master/app/src/main/res/drawable/dangif.gif)</br>
-## How  To Use?/如何使用?-
- 
-### 1:
 
+## HowTo Use?/如何使用?-
+ 
+### 1:添加 依赖（或者直接把BarrageView这个类放到项目里面）
 ```
 	allprojects {
 		repositories {
@@ -18,16 +18,13 @@
 			maven { url 'https://jitpack.io' }
 		}
 	}
-```
 
-### 2:
-```
 	dependencies {
 	        compile 'com.github.385841539:BarrageView:-SNAPSHOT'
 	}
 ```
 
-### 3:布局文件
+### 2:布局文件
 ```
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
@@ -53,7 +50,7 @@
 
 ```
 
-### 4:添加 字幕的方法：
+### 2:添加 字幕的方法：
 
 ```
  bv.addTextitem(content);
