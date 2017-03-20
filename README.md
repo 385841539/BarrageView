@@ -10,7 +10,8 @@
 
 ## HowTo Use?/如何使用?-
  
-### 1:添加 依赖（或者直接把BarrageView这个类放到项目里面）
+### 1:添加 依赖（或者直接把BarrageView这个类放到项目里面)</br>
+>> 1.先在 build.gradle(Project:XXXX) 的 repositories 添加:
 ```
 	allprojects {
 		repositories {
@@ -18,8 +19,10 @@
 			maven { url 'https://jitpack.io' }
 		}
 	}
-
-	dependencies {
+	```
+ >> 2.然后在 build.gradle(Module:app) 的 dependencies 添加:
+ ```
+ dependencies {
 	        compile 'com.github.385841539:BarrageView:-SNAPSHOT'
 	}
 ```
