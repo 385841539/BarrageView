@@ -6,8 +6,8 @@
 
  效果图  ：
  
-![Image text](https://github.com/385841539/BarrageView/blob/master/app/src/main/res/drawable/dangif.gif)
-## How  To Use?/如何使用？
+![Image text](https://github.com/385841539/BarrageView/blob/master/app/src/main/res/drawable/dangif.gif)</br>
+## How  To Use?/如何使用?-
  
 ### 1:
 
